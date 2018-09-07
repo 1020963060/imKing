@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="imKing_Common" />
+        <module name="imKing_Domain" />
+        <module name="imKing_LoginController" />
+        <module name="imKing_Mapper" />
+        <module name="imKing_SSOService" />
+        <module name="imKing_SSOServiceProvider" />
+        <module name="imKing_UserService" />
+        <module name="imKing_Web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="imKing_UserService" target="1.8" />
+      <module name="imKing_WebController" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
