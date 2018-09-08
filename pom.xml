@@ -15,6 +15,7 @@
         <module>imKing_SSOService</module>
         <module>imKing_SSOServiceProvider</module>
         <module>imKing_LoginController</module>
+        <module>imKing_WebController</module>
     </modules>
     <packaging>pom</packaging>
     <properties>

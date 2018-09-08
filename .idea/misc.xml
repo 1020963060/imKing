@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/imKing_LoginController" />
     <file type="web" url="file://$PROJECT_DIR$/imKing_Web" />
+    <file type="web" url="file://$PROJECT_DIR$/imKing_WebController" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

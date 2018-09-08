@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/imKing_UserService/imKing_UserService.iml" filepath="$PROJECT_DIR$/imKing_UserService/imKing_UserService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/imKing_WebController/imKing_WebController.iml" filepath="$PROJECT_DIR$/imKing_WebController/imKing_WebController.iml" />
     </modules>
   </component>
 </project>
