@@ -13,12 +13,14 @@
         <module name="imKing_SSOService" />
         <module name="imKing_SSOServiceProvider" />
         <module name="imKing_UserService" />
+        <module name="imKing_UserServiceProvider" />
         <module name="imKing_Web" />
         <module name="imKing_WebController" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="imKing_UserService" target="1.8" />
+      <module name="comimKing_UserServiceProvider" target="1.8" />
+      <module name="comimKingUserServiceProvider" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

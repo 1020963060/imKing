@@ -12,4 +12,10 @@
     <artifactId>imKing_WebController</artifactId>
     <packaging>war</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.ydp</groupId>
+            <artifactId>imKing_UserServiceProvider</artifactId>
+            <version>1.0.0</version>
+        </dependency></dependencies>
 </project>
