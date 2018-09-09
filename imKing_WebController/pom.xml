@@ -17,5 +17,13 @@
             <groupId>com.ydp</groupId>
             <artifactId>imKing_UserServiceProvider</artifactId>
             <version>1.0.0</version>
-        </dependency></dependencies>
+        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.ydp</groupId>-->
+            <!--<artifactId>imKing_UserService</artifactId>-->
+            <!--<version>1.0.0</version>-->
+        <!--</dependency>-->
+
+
+    </dependencies>
 </project>

@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/imKing_LoginController" />
+    <file type="web" url="file://$PROJECT_DIR$/imKing_UserServiceProvider" />
     <file type="web" url="file://$PROJECT_DIR$/imKing_Web" />
     <file type="web" url="file://$PROJECT_DIR$/imKing_WebController" />
   </component>
